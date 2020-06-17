@@ -61,7 +61,7 @@ body {
 
   flex-wrap: wrap;
   justify-content: center;
-  background: url("./images/bg-triangle.svg") no-repeat center;
+  background: url("../images/bg-triangle.svg") no-repeat center;
 }
 
 .button-rules {
