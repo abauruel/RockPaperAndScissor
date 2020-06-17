@@ -88,7 +88,7 @@ body {
   cursor: pointer;
 }
 
-.buttons > div {
+.buttons > span {
   height: 120px;
   width: 120px;
   background: #fff;
@@ -284,7 +284,7 @@ body {
     margin: 20px;
     cursor: pointer;
   }
-  .buttons > div {
+  .buttons > span {
     height: 90px;
     width: 90px;
   }
@@ -293,7 +293,7 @@ body {
 
     flex-wrap: wrap;
     justify-content: center;
-    background: url("./images/bg-triangle.svg") no-repeat center;
+    background: url("../images/bg-triangle.svg") no-repeat center;
     background-size: 210px;
   }
   .button-rules {
@@ -358,6 +358,7 @@ body {
     letter-spacing: 2px;
     margin-bottom: 15px;
   }
+
   .modal {
     padding: 0;
     width: 250px;
