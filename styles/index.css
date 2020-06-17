@@ -290,7 +290,6 @@ body {
   }
   .choose {
     display: flex;
-
     flex-wrap: wrap;
     justify-content: center;
     background: url("../images/bg-triangle.svg") no-repeat center;
